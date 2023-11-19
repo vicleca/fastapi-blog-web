@@ -6,31 +6,31 @@
     background-color: white;
     max-width: 50%;
     margin-bottom: 50px;
-  }
-  
-  .post_image {
+}
+
+.post_image {
     display: block;
     width: 20%;
     object-fit: contain;
     padding-right: 10px;
     margin-bottom: auto;
-  }
-  
-  .post_content {
+}
+
+.post_content {
     display: block;
-  }
-  
-  .post_title {
+}
+
+.post_title {
     font-size: xx-large;
-  }
-  
-  .post_text {
+}
+
+.post_text {
     white-space: pre-line;
-  }
-  
-  .post_creator {
+}
+
+.post_creator {
     font-size: small;
     font-style: italic;
     margin: 5px;
     margin-left: 10px;
-  }
+}

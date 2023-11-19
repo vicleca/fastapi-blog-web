@@ -18,6 +18,9 @@ function Post({post}) {
         <div className='post_title'>{post.title}</div>
         <div className='post_creator'>by {post.creator}</div>
         <div className='post_text'>{post.content}</div>
+        <div className='post_delete'>
+          <button onClick={null}>Delete post</button>
+        </div>
       </div>
     </div>
   )
